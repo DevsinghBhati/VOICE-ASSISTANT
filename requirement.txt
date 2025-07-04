@@ -1,0 +1,12 @@
+pyttsx3==2.90
+SpeechRecognition==3.10
+pyaudio==0.2.13
+openai>=1.0.0             # Optional: if using ChatGPT for smart responses
+ollama                    # Optional: for local AI with Ollama
+requests                  # Useful for APIs (AI jokes or weather etc.)
+datetime                  # Built-in, but shown for clarity
+calendar                  # Built-in, used in calendar_check.py
+webbrowser                # Built-in, used to open websites
+os                        # Built-in, for file management
+json                      # Built-in, used in analytics
+random                    # Built-in, for jokes_ai.py
